@@ -16,7 +16,7 @@ This repository contains a **GeoJSON file of India's map**, including detailed s
   - Telangana will be added soon in an upcoming update, so stay tuned!  
 
 ## File Details  
-- **`india_map.geojson`:**  
+- **`IndiaGeoJson.geojson`:**  
   The GeoJSON file representing India's map with state boundaries and detailed geometry.  
 
 ## Usage  
